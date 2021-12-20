@@ -1,15 +1,16 @@
 # Mixed Messages #
-## Phrases for [90.10 project](https://www.9010project.com)##
+## Phrases for [90.10 project](https://www.9010project.com) ##
 
-### Introduction###
-This applications draws phrases randomly from 4 different categories:
+### Introduction ###
+Codecademy project
+This application draws phrases randomly from 4 different categories:
 Inspirational, lifestyle, practical use, 5 R's of zero waste.
 
-### Technologies###
+### Technologies ###
 + Node Js
 + Javascript
 
-### Launch###
+### Launch ###
 Run the script.js with Nodejs
 command: node script.js
 
