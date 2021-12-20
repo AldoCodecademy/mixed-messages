@@ -20,7 +20,7 @@ const phrasesDB = {
      `The handicap of deafness is not in the ear;
      it is in the  mind. 
      "Marlee Matlin"`],
-     wayOfLife: [`Deposita tu voto en la sociedad en la que quieres vivir`, 
+     lifeStyle: [`Deposita tu voto en la sociedad en la que quieres vivir`, 
      `No necesitamos un puñado de personas haciendo un zerowaste perfecto,
      sino miles de personas haciéndolo de forma imperfecta.`,
     `Para que desaparezca el plástico hay que dejar de consumirlo`,
@@ -75,7 +75,7 @@ const selectCategory = () =>{
             category = 'inspirational';
             break;
         case 1:
-            category = 'wayOfLife';
+            category = 'lifeStyle';
             break;
         case 2:
             category = 'practicalUse';
